@@ -3,6 +3,7 @@ T6.5 — Plank Timer + Form Checker
 SMAI Assignment 3 · IIIT Hyderabad 2025-26
 
 Uses MediaPipe Pose Landmarker (Tasks API) to:
+
   - Detect 33 body keypoints
   - Check hip-line straightness (shoulder → hip → ankle angle)
   - Check head alignment (ear → shoulder angle)
